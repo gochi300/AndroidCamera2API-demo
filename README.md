@@ -1,2 +1,0 @@
-# androidCamera2API-demo
-
